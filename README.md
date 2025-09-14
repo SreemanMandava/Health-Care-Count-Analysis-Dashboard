@@ -23,4 +23,4 @@ This project involves cleaning, transforming, and analyzing healthcare data usin
 ## Installation & Usage  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ShrestaKota/Health-Care-Count-Analysis-Dashboard
+   git clone https://github.com/SreemanMandava/Health-Care-Count-Analysis-Dashboard
